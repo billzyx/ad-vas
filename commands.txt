@@ -1,0 +1,30 @@
+Alexa, what is the weather outside?
+Alexa, what is today's date?
+Alexa, what time is it?
+Alexa, when is Thanksgiving?
+Alexa, how do you bake chocolate chip cookies?
+Alexa, what is two times four?
+Alexa, how many tablespoons in a cup?
+Alexa, how do you spell symptom?
+Alexa, play classical music.
+Alexa, volume eight
+Alexa, play Jazz.
+Alexa, volume six
+Alexa, remind me to start the laundry tomorrow at two p_m.
+Alexa, remind me to feed the dog at seven p_m everyday.
+Alexa, tell me my reminders.
+Alexa, remember my daughter's birthday is June first.
+Alexa, set a timer in five seconds.
+Alexa, set my alarm for seven a_m tomorrow.
+Alexa, add oranges and grapes to my shopping list.
+Alexa, what is in my shopping list? | alexa what's in my shopping list
+Alexa, call six oh three six six zero two two zero three. | Alexa, call six zero three six six zero two two zero three.
+Alexa, find my phone.
+Alexa, turn the bedroom light on. | Alexa, turn on the bedroom light.
+Alexa, turn the bedroom light red.
+Alexa, change brightness to ten. | Alexa, change the brightness to ten.
+Alexa, turn off the bedroom light.
+Alexa, open the kitchen camera.
+Alexa, hide the kitchen camera.
+Alexa, play White Collar on Fire TV.
+Alexa, pause.
